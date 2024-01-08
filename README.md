@@ -38,4 +38,4 @@
 - **Download models here !!! [MODELS](https://drive.google.com/drive/folders/1GJdh2ECYUcqNWYdKMLDfyDIbioH4S0Po?usp=sharing)**
 - **Run Streamlit** streamlit run .\project.py
 ## **DEMO**
-https://github.com/HuynhThien1/DS102-Final-Project/blob/master/assests/demo.webm
+https://github.com/buidinhquan13/DS102_Final_Project/blob/main/assests/demo.webm
