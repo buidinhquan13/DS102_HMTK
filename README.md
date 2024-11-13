@@ -21,10 +21,10 @@
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên               | Email                   |
 | ------ |:-------------:| ----------------------:|-------------------------:
-| 1      | 21522621      | Huỳnh Công Thiện          |21522621@gm.uit.edu.vn   |
-| 2      | 21522295      | Lê Trần Bảo Lợi          |21522295@gm.uit.edu.vn   |
-| 3      | 21522487      | Bùi Đình Quân         |21522487@gm.uit.edu.vn   |
-| 4      | 21522706      | Nguyễn Minh Trí           |21522706@gm.uit.edu.vn   |
+| 1      | 21522487      | Bùi Đình Quân          |21522487@gm.uit.edu.vn   |
+| 2      | 21522295      | Lê Trần Bảo Lợi        |21522295@gm.uit.edu.vn   |
+| 3      | 21522621      | Huỳnh Công Thiện       |21522621@gm.uit.edu.vn   |
+| 4      | 21522706      | Nguyễn Minh Trí        |21522706@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 # IMAGE CLASSIFICATION FOR TOURIST DESTINATION IN VIET NAM
